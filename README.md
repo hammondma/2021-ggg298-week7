@@ -3,4 +3,6 @@ Week 7 of GGG 298 at UC Davis, example
 
 Hello, world.
 
-Ana, Do the thing
+Computer, Do the thing
+
+You did the thing!
