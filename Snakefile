@@ -1,5 +1,5 @@
 rule all:
-    input: "hello.txt", "howdy.txt"
+    input: "hello.txt", "howdy.txt","nonexistant file.txt"
     
 rule howdy:
     output: "howdy.txt"
