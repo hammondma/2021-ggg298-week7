@@ -2,3 +2,5 @@
 Week 7 of GGG 298 at UC Davis, example 
 
 Hello, world.
+
+Julie, Do the thing
